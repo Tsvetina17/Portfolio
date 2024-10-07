@@ -1,7 +1,7 @@
 # Portfolio
 I have more than seven years of experience in data analysis, marketing, sales and finance. In 2022, I started learning Python and dove into data science and machine learning. I earned professional certificates from Codecademy and DataCamp. This is a compilation of some of my projects in data analysis, data science and data visualization. Many have originated from courses and competitions I took part in or hobbies and personal interests. 
 
-Below you can also find some information about me including work experience, education and certificates. I'm happy to get in touch on [Linkedin](https://se.linkedin.com/in/tsvetinakirova).
+I'm happy to get in touch on [Linkedin](https://se.linkedin.com/in/tsvetinakirova).
 
 ## Projects
 
