@@ -1,8 +1,6 @@
 # Portfolio
 I have more than seven years of experience in data analysis, marketing, sales and finance. In 2022, I started learning Python and dove into data science and machine learning. I earned professional certificates from Codecademy and DataCamp. This is a compilation of some of my projects in data analysis, data science and data visualization. Many have originated from courses and competitions I took part in or hobbies and personal interests. 
 
-I'm happy to get in touch on [Linkedin](https://se.linkedin.com/in/tsvetinakirova).
-
 ## Projects
 
 <img align="left" width="150" height="150" src="assets/img/Recipes.jpg"> **[Predict Popularity of Recipes](https://github.com/Tsvetina17/Portfolio/blob/main/assets/Predict%20Popularity%20of%20Recipes.ipynb)**
